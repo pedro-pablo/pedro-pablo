@@ -1,4 +1,3 @@
-<h1>Pedro Pablo</h1>
 <div align="center">
   <br />
   <img height="160em" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=pedro-pablo&show_icons=true&include_all_commits=true&count_private=true&hide_title=1&theme=merko" />
