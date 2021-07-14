@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>Pedro Pablo</h1>
+<div align="center">
+  <br />
+  <img height="160em" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=pedro-pablo&show_icons=true&include_all_commits=true&count_private=true&hide_title=1&theme=merko" />
+  <img height="160em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-pablo&layout=compact&theme=merko" />
+</div>
 
 <!--
 **pedro-pablo/pedro-pablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
